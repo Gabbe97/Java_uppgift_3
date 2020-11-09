@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.company","c":"Spel","l":"endGame()"},{"p":"com.company","c":"Spel","l":"game()"},{"p":"com.company","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"com.company","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.company","c":"Spel","l":"Spel()","url":"%3Cinit%3E()"},{"p":"com.company","c":"Spel","l":"start()"}]
